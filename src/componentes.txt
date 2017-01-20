@@ -1,0 +1,3 @@
+JDk: Contiene el Compilador.
+JRE: Contene el interprete.
+JVM: Maquina Virtual de Java.
