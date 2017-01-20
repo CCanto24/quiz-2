@@ -1,4 +1,4 @@
 # quiz-2
-Carlos Canto
+Carlos Canto,
 Franklin Vanegas
 
